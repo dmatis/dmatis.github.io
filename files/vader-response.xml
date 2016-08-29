@@ -1,0 +1,7 @@
+<Response>
+<Say voice="man" language="en-gb">
+Hello! You've received a call from Vader Bot
+</Say>
+<Play>http://www.thesoundarchive.com/starwars/swvader04.wav</Play>
+
+</Response>
